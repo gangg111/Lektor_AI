@@ -17,7 +17,7 @@ Poniżej znajduje się zrzut ekranu przedstawiający działanie aplikacji:
 ## 🚀 Funkcje
 * **Głosy neuronowe**: Najwyższa jakość syntezy mowy (Microsoft Edge TTS).
 * **Miksowanie MKV**: Automatyczne łączenie ścieżek bez utraty jakości wideo.
-* **Inteligentna synchronizacja**: Lektor idealnie dopasowany do znaczników czasowych w pliku SRT.
+* **Inteligentna synchronizacja**: Lektor idealnie dopasowany do znaczników czasowych napisów.
 
 ---
 *Aby pobrać gotowy program, przejdź do sekcji **Releases** po prawej stronie.*
