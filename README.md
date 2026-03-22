@@ -5,7 +5,7 @@
 </p>
 
 ## 🤖 O projekcie
-Zaawansowany system **Lektora AI** wykorzystujący sieci neuronowe do syntezy mowy z napisów filmowych. Program automatycznie generuje naturalnie brzmiący głos lektora i łączy go z oryginalnym wideo, tworząc finalny plik w formacie **MKV** z idealną synchronizacją.
+To mój autorski program, który oferuje zaawansowany system Lektora AI wykorzystujący sieci neuronowe do syntezy mowy z napisów filmowych. Program automatycznie generuje naturalnie brzmiący głos lektora i łączy go z oryginalnym wideo w formacie .mkv, tworząc finalny plik z idealną synchronizacją.
 
 ## 📸 Interfejs programu
 Poniżej znajduje się zrzut ekranu przedstawiający działanie aplikacji:
