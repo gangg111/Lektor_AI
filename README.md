@@ -15,7 +15,7 @@ Poniżej znajduje się zrzut ekranu przedstawiający działanie aplikacji:
 </p>
 
 ## 🚀 Funkcje
-* **Głosy neuronowe**: Najwyższa jakość syntezy mowy (Microsoft Edge TTS).
+* **Głosy neuronowe**: Najwyższa jakość syntezy mowy (Microsoft Edge-TTS oraz OPEN AI-TTS).
 * **Miksowanie MKV**: Automatyczne łączenie ścieżek bez utraty jakości wideo.
 * **Inteligentna synchronizacja**: Lektor idealnie dopasowany do znaczników czasowych napisów.
 
