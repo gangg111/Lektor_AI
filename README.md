@@ -19,5 +19,10 @@ Poniżej znajduje się zrzut ekranu przedstawiający działanie aplikacji:
 * **Miksowanie MKV**: Automatyczne łączenie ścieżek bez utraty jakości wideo.
 * **Inteligentna synchronizacja**: Lektor idealnie dopasowany do znaczników czasowych napisów.
 
+## 📱 Wersja mobilna (wkrótce)
+Wersja **Lektor AI na Androida** jest już w trakcie opracowywania! Aplikacja mobilna przenosi wszystkie kluczowe funkcje programu na urządzenia z systemem Android — generowanie głosu lektora, obsługa napisów oraz synchronizacja audio — bezpośrednio na Twoim smartfonie lub tablecie.
+
+> **Śledź projekt**, aby nie przegapić premiery wersji mobilnej.
+
 ---
 *Aby pobrać gotowy program, przejdź do sekcji **Releases** po prawej stronie.*
