@@ -30,5 +30,5 @@ Wersja **Lektor AI na Androida** jest już w trakcie opracowywania! Aplikacja mo
 
 ## Szczególne podziękowania:
 
-użytkownikowi [Slawaspr0](https://github.com/Slawaspr0/) i projektowi LektorAI-by-Slawaspr0 za inspirację do wdrożenia kilku elementów interfejsu,
-projektowi [Chatterbox](https://github.com/resemble-ai/chatterbox/) | [F5-TTS](https://github.com/SWivid/F5-TTS) za silniki TTS do klonowania i generowania głosu lokalnie,
+* użytkownikowi [Slawaspr0](https://github.com/Slawaspr0/) i projektowi LektorAI-by-Slawaspr0 za inspirację do wdrożenia kilku elementów interfejsu,
+* projektowi [Chatterbox](https://github.com/resemble-ai/chatterbox/) | [F5-TTS](https://github.com/SWivid/F5-TTS) za silniki TTS do klonowania i generowania głosu lokalnie,
