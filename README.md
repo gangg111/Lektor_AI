@@ -28,7 +28,7 @@ Wersja **Lektor AI na Androida** jest już w trakcie opracowywania! Aplikacja mo
 *Aby pobrać gotowy program, przejdź do sekcji **Releases** po prawej stronie.*
 
 
-## 🙏 Podziękowania / Acknowledgments
+## 🙏 Podziękowania
 
 Ten projekt opiera się na fantastycznej pracy społeczności open-source. Ogromne podziękowania dla twórców i opiekunów poniższych narzędzi, bez których stworzenie tej aplikacji nie byłoby możliwe:
 
