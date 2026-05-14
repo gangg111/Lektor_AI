@@ -28,7 +28,15 @@ Wersja **Lektor AI na Androida** jest już w trakcie opracowywania! Aplikacja mo
 *Aby pobrać gotowy program, przejdź do sekcji **Releases** po prawej stronie.*
 
 
-## Szczególne podziękowania:
+## 🙏 Podziękowania / Acknowledgments
 
-* użytkownikowi [Slawaspr0](https://github.com/Slawaspr0/) i projektowi LektorAI-by-Slawaspr0 za inspirację do wdrożenia kilku elementów interfejsu,
-* projektowi [Chatterbox](https://github.com/resemble-ai/chatterbox/) | [F5-TTS](https://github.com/SWivid/F5-TTS) za silniki TTS do klonowania i generowania głosu lokalnie,
+Ten projekt opiera się na fantastycznej pracy społeczności open-source. Ogromne podziękowania dla twórców i opiekunów poniższych narzędzi, bez których stworzenie tej aplikacji nie byłoby możliwe:
+
+* **[CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)** (Tom Schimansky) – za dostarczenie wspaniałego, nowoczesnego frameworka do budowania estetycznych interfejsów graficznych (GUI) w Pythonie.
+* **[edge-tts](https://github.com/rany2/edge-tts)** (rany2) – za genialny wrapper umożliwiający bezproblemową integrację z wysokiej jakości chmurowym systemem syntezy mowy (Text-to-Speech) bezpośrednio w kodzie.
+* **[pysrt](https://github.com/byroot/pysrt)** – za niezawodną bibliotekę do parsowania i manipulacji plikami z napisami, stanowiącą fundament dla odpowiedniej synchronizacji tekstu.
+* **Google GenAI API** – za potężne narzędzia do analizy i przetwarzania języka naturalnego, wspierające logikę tekstową aplikacji.
+* **[Pygame](https://www.pygame.org/)** – za niezawodny silnik audio (mixer), który świetnie sprawdza się do obsługi i odtwarzania wygenerowanych ścieżek dźwiękowych.
+* **[Pillow (PIL)](https://python-pillow.org/)** – za sprawne zarządzanie zasobami graficznymi interfejsu.
+* **użytkownikowi [Slawaspr0](https://github.com/Slawaspr0/)** i projektowi LektorAI-by-Slawaspr0 za inspirację do wdrożenia kilku elementów interfejsu,
+* **projektowi [Chatterbox](https://github.com/resemble-ai/chatterbox/)** | **[F5-TTS](https://github.com/SWivid/F5-TTS)** za silniki TTS do klonowania i generowania głosu lokalnie,
