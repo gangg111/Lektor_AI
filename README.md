@@ -11,7 +11,7 @@ To mój autorski program, który oferuje zaawansowany system Lektora AI wykorzys
 Poniżej znajduje się zrzut ekranu przedstawiający działanie aplikacji:
 
 <p align="center">
-  <img src="images/screenshot.jpg" alt="Screenshot programu Lektor AI" width="800">
+  <img src="images/screenshot.png" alt="Screenshot programu Lektor AI" width="800">
 </p>
 
 ## 🚀 Funkcje
