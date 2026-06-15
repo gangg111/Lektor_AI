@@ -1,4 +1,5 @@
 **Dołącz do mojego Serwera:**
+
 [![Discord](https://img.shields.io/badge/Discord-Dołącz_do_serwera-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3DkUYK89Ys)
 
 # Lektor AI
