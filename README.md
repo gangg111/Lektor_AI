@@ -6,6 +6,9 @@
 
 </div>
 
+
+
+
 # Lektor AI
 
 <p align="center">
